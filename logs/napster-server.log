@@ -1,0 +1,49 @@
+[INFO] 2024-12-26 10:19:35,787 [main] com.project.ApplicationBootstrap - Server is running...
+[ERROR] 2024-12-26 10:19:35,788 [main] com.project.ApplicationBootstrap - catching
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:565) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:554) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636) ~[?:?]
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:389) ~[?:?]
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276) ~[?:?]
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:170) ~[?:?]
+	at com.project.SocketListener.accept(SocketListener.java:26) ~[classes/:?]
+	at com.project.ApplicationBootstrap.main(ApplicationBootstrap.java:19) [classes/:?]
+[INFO] 2024-12-26 10:19:47,959 [main] com.project.ApplicationBootstrap - Server is running...
+[ERROR] 2024-12-26 10:19:47,960 [main] com.project.ApplicationBootstrap - catching
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:565) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:554) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636) ~[?:?]
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:389) ~[?:?]
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276) ~[?:?]
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:170) ~[?:?]
+	at com.project.SocketListener.accept(SocketListener.java:26) ~[classes/:?]
+	at com.project.ApplicationBootstrap.main(ApplicationBootstrap.java:19) [classes/:?]
+[INFO] 2024-12-26 10:19:51,222 [main] com.project.ApplicationBootstrap - Server is running...
+[ERROR] 2024-12-26 10:19:51,231 [main] com.project.ApplicationBootstrap - catching
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:565) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:554) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636) ~[?:?]
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:389) ~[?:?]
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276) ~[?:?]
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:170) ~[?:?]
+	at com.project.SocketListener.accept(SocketListener.java:26) ~[classes/:?]
+	at com.project.ApplicationBootstrap.main(ApplicationBootstrap.java:19) [classes/:?]
+[INFO] 2024-12-26 10:20:47,406 [main] com.project.ApplicationBootstrap - Server is running...
+[ERROR] 2024-12-26 10:20:47,409 [main] com.project.ApplicationBootstrap - catching
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:565) ~[?:?]
+	at java.base/sun.nio.ch.Net.bind(Net.java:554) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636) ~[?:?]
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:389) ~[?:?]
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276) ~[?:?]
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:170) ~[?:?]
+	at com.project.SocketListener.accept(SocketListener.java:26) ~[classes/:?]
+	at com.project.ApplicationBootstrap.main(ApplicationBootstrap.java:19) [classes/:?]
+[INFO] 2024-12-26 10:21:25,608 [main] com.project.ApplicationBootstrap - Server is running...
