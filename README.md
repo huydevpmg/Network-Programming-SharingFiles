@@ -8,7 +8,7 @@ cd server
 mvn package -DskipTests
 
 # Run Server
-java -jar target/napster.server.jar
+java -jar target/server.jar
 ```
 
 ```
@@ -17,7 +17,7 @@ cd client
 mvn package -DskipTests
 
 # Run Client
-java -jar target/napster.client.jar
+java --module-path "D:\openjfx-23.0.1_windows-x64_bin-sdk\javafx-sdk-23.0.1\lib" --add-modules javafx.controls,javafx.fxml -jar target/client.jar 
 ```
 
 Enjoy!
